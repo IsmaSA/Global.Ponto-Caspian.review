@@ -20,26 +20,7 @@ PONTO CASPIAN SPECIES LIST/
 │
 ├── SpeciesList/ 
 ├── Taxonomy_files/ 
-├── test_files/, test-master/ 
-├── .RData, .Rhistory 
-│
-├── AllTaxonomyGBIF.xlsx 
-├── Backbone.xlsx 
-├── First.records.xlsx 
-├── Pathways.xlsx 
-├── occurrence.txt
-├── matrix2.csv 
-├── RawPC.List.xlsx 
-├── savedrecs.xls 
-│
-├── HydroRIVERS_* 
-├── species_occurrence_3d_map.png 
-│
 ├── Pathways.r 
-├── Path.html, Path.pdf
-│
-├── Taxonomy.html, Taxonomy.pdf
-├── *.svg 
 └── README.md 
 
 
